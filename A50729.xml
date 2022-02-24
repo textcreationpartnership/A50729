@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of all such occurrences as have hapned in the severall covnties of Donegall, London-derry, Tyrone, and Fermanagh in the north of Ireland since the beginning of this horrid, bloody, and unparaleld rebellion there, begun in October last / in all humility presented to the Honorable House of Commons in England by Avdeley Mervyn.</title>
+            <author>Mervyn, Audley, Sir, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50729</idno>
+            <idno type="STC">Wing M1881</idno>
+            <idno type="STC">ESTC R25496</idno>
+            <idno type="EEBO-CITATION">08999171</idno>
+            <idno type="OCLC">ocm 08999171</idno>
+            <idno type="VID">42165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42165)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1290:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of all such occurrences as have hapned in the severall covnties of Donegall, London-derry, Tyrone, and Fermanagh in the north of Ireland since the beginning of this horrid, bloody, and unparaleld rebellion there, begun in October last / in all humility presented to the Honorable House of Commons in England by Avdeley Mervyn.</title>
+                  <author>Mervyn, Audley, Sir, d. 1675.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Luke Norton and John Field, for Ralph Rounthwait,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by order of the House of Commons."</note>
+                  <note>Imperfect: pages cropped with loss of print. Cambridge University Library copy spliced at end.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42165:1"/>
+            <pb facs="tcp:42165:1" rendition="simple:additions"/>
+            <p>AN EXACT RELATION OF All ſuch Occurrences As have hapned in the ſeverall COVNTIES OF <hi>Donegall, London-Derry, Tyrone,</hi> and <hi>Fermanagh,</hi> in the North of IRELAND, Since the begining of this horrid, bloody, and unparaleld REBELLION there, begun in <hi>October</hi> laſt.</p>
+            <p>In all humility preſented to the Honorable Houſe of COMMONS in ENGLAND;</p>
+            <p>By Lieutenant Colonell AVDELEY MERVYN, The Fourth of JUNE, 1642.</p>
+            <p>Publiſhed by Order of the Houſe of COMMONS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Luke Norton</hi> and <hi>John Field,</hi> for <hi>Ralph Rounthwait.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:42165:2"/>
+            <head>Die Sabbati, 4. Iunii, 1642.</head>
+            <p>A Relation of ſuch Occurrences as have happened in the ſeverall Counties of <hi>Donnegale, Tyrone, Fermanagh,</hi> and <hi>London-Derry,</hi> ſince the beginning of the Rebellion in <hi>Ireland</hi> in <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> laſt; preſented to this Houſe by Lieutenant Colonell <hi>Aude<g ref="char:EOLhyphen"/>ley Mervyn,</hi> was this day read. And it is ordered, That he be deſired to Print it; And that no man ſhall Re-print it, but ſuch as he ſhall appoint, without the particular Order of this Houſe.</p>
+            <closer>
+               <signed>H. Elſinge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:42165:2"/>
+            <head>A Relation OF SVCH OCCVRRENCES as have happened in the ſeverall Counties of <hi>Donnegall, Tyrone, Fermanagh,</hi> and <hi>London-Derry,</hi> ſince the begin<g ref="char:EOLhyphen"/>ning of the Rebellion in <hi>Ireland,</hi> in <hi>October</hi> laſt; In all hu<g ref="char:EOLhyphen"/>mility preſented to the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons in <hi>England,</hi> by Lieutenant Colonell <hi>Audeley Mervyn, June</hi> 4. 1642.</head>
+            <opener>
+               <salute>Mr. <hi>SPEAKER:</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F my wiſhes could prevaile againſt the neceſſity of the times, or if by hieroglyphicks I could expreſſe the ſenſe of that truſt, in which by a ſympathy with my Countrey, and requeſt of my friends I ſtand now engaged, I ſhould be moſt unwilling to ſalute this Sence with a Tragedy, or to preſent unto the continued, yet unwearied labours of this Honoura<g ref="char:EOLhyphen"/>ble Aſſembly, any out-bread diſcontents, ſince too too many are unfor<g ref="char:EOLhyphen"/>tunately hatched and nouriſhed within your owne climate; whilſt the Ship ſail'd upon ſmooth waters, the Diſciples lull'd their Maſter aſleep, but when the thunder broke forth, the lightnings flaſhed, waves crow<g ref="char:EOLhyphen"/>ded on heapes, then their feares pleaded an apology for their want of faith and manners to awaken him.</p>
+            <p>Maſter <hi>Speaker,</hi> the times were when the Kingdome of <hi>Ireland</hi> ſailed upon ſmooth waters; <hi>Leinſter</hi> and <hi>Munſter</hi> never diſquieted in their eſtates; <hi>Connagh</hi> ſtretcht forth it ſelfe in the happy aſſurance of its illegall ſettlement; <hi>Vlſter,</hi> though wounded and in Capite by alte<g ref="char:EOLhyphen"/>ration of her tenures, yet was ſalved and recovered by the Royall pro<g ref="char:EOLhyphen"/>miſe for its reparation.</p>
+            <p>Nationall grievances were ready for the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>kle (in which let mee never forgett the great aſiſtance and reſpect our Committee received from this Honourable houſe) and by a favourable digreſſion excuſe our Kingdome from a ſuſpitious Lethargy, that ſuch a horrid mon<g ref="char:EOLhyphen"/>ſter, as this preſent Rebellion, ſhould be conceived among us, and yet never felt to kick in the wombe, nor ſtruggle in the birth: Since that diſcontent in the Subject, which is the fore-runner of Rebellion, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:42165:3"/>
+But now (Maſter <hi>Speaker</hi>) the thunder roares from the Rebels Ca<g ref="char:EOLhyphen"/>nons, the lightning flaſhes from their fire-works, the waves of inno<g ref="char:EOLhyphen"/>cent bloud crouds up in heaps, then pardon our juſt fears if they addreſſe themſelves to this Houſe in theſe words, <hi>ſi deſeris tu, perimus,</hi> onely in this I muſt contradict the application; you have wanted no vigilancie nor we ſenſe thereof, nor faith therein.</p>
+            <p>Maſter <hi>Speaker,</hi> The relation I ſhall trouble your patience withall, will be of ſuch particulars as are confined within the limits of the County of <hi>Tyrone,</hi> the County of <hi>London-Derry,</hi> the County of <hi>Fer<g ref="char:EOLhyphen"/>managh,</hi> and the County of <hi>Donegall,</hi> the greater part of the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter;</hi> to all which, my eyes have been the witneſſes, or elſe bal<g ref="char:EOLhyphen"/>lanced with equall credit: for as for ſuch paſſages that are grounded upon hear-ſaies, I eſteem an unwarrantable diſcourſe for the gravity of this audience; beſides all wayes of intelligence from our friends have received ſuch obſtructions by our enemies, that from the ninth of <hi>November,</hi> untill the third of <hi>May,</hi> we never received one ſyllable from <hi>Dublin,</hi> in what condition thoſe parts ſtood, which I doubt not, though uncertain to us in the ſame Kingdome, is but ſtale and common in this: and by the ſelf-ſame rule I conceive the ſtate in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> are as doubt full of our condition in thoſe parts, and not able to know where our ſhooe pinches us, except they can ſay that it wrings the whole foot, which is too manifeſtly true.</p>
+            <p>Though the poyſon of this Rebellion was diffuſed thorow the veins of the whole Kingdom, yet it broke the skin with its plague-tokens in the County of <hi>Tyrone</hi> and <hi>Fermanagh</hi> firſt.</p>
+            <p>The ſuddenneſſe of our ſurpriſall, and the nature of it, was ſo unex<g ref="char:EOLhyphen"/>pected, that the Inhabitants could ſcarcely believe themſelves priſoners, though in their chains, and the Iriſh ſervant which over-night was un<g ref="char:EOLhyphen"/>dreſſing his Maſter in duty, the next morning was ſtripping Maſter and Miſtris with a too-officious tyranny.</p>
+            <p>Here in the twinckling of an eye, the Corporations, Towns and Villages proclaimed their Scituation afarre off by their fire and ſmoke; here you might ſee hundreds of men, women, children, of all conditions and eſtates, that had lived in moſt plentifull and ſecure habitations, expoſed to the rock for ſhelter, to the Heavens for cloa<g ref="char:EOLhyphen"/>thing, ſo that many hundreds in a few days ſtarved upon the mountains.</p>
+            <p>Where was here any expectation of relief? the husband could not relieve the wife, nor both, or either of them their children: the Maſter could not provide for his family, neither was there any reci<g ref="char:EOLhyphen"/>procall duty or ſervice from theſe to be performed to the advantage
+<pb n="5" facs="tcp:42165:3"/>mine ſtained every viſage; The Landlords Paramount title over the Te<g ref="char:EOLhyphen"/>nant, was with himſelf out of doors, and they which formerly were, and now ſhould have been moſt beneficiall to the diſtreſſed, were moſt burthenſome to themſelves and others, as being leſſe read, in this hard and untutored Chapter, of perſonall and moſt neceſſary wants.</p>
+            <p>Who can remember without grief, the generall burthen of each ex<g ref="char:EOLhyphen"/>preſſion <hi>Give us bread, or elſe we periſh?</hi> and their famiſhing demands onely ſatisfied with a comfortleſſe Eccho of the ſame words?</p>
+            <p>But this nakedneſſe and famine, and their male and female iſſue (varletie of diſeaſes) were adjudged overflow executioners, of the ſurviving <hi>Britiſh.</hi> Then entred the ſword, deſtroying at the firſt, with the ſcabberd on. The Rebels under a faire and coulerable pre<g ref="char:EOLhyphen"/>tence of a Convoy inviting the hidden and ſcattered Proteſtants in<g ref="char:EOLhyphen"/>to a body, that ſo they might (as they moſt perfidionſly did) make each ſurviving man, an Executor to the laſt murthered in his pre<g ref="char:EOLhyphen"/>ſence, and ſo the whole live one by one extinguiſhed, the <hi>Iriſh</hi> Prieſt as Ordinary, adminiſtred for all.</p>
+            <p>This the Sword acted in a Fox-skinne ſcabberd, and then flouriſh<g ref="char:EOLhyphen"/>ed in one of a Lyons skin; ſeeking whom it may devoure, and de<g ref="char:EOLhyphen"/>vouring all that it ſought after; for I can confidently affirme, that out of the County of <hi>Fermanagh</hi> one of the beſt planted Counties with <hi>Engliſh,</hi> I could never give an accompt of 20 men eſcaped, except (which is moſt improbable) they ſhould fly to <hi>Dublin;</hi> as for the chiefeſt (my owne eſtate meeting upon the Marches of that County) ha<g ref="char:EOLhyphen"/>ving inquired from priſoners, by name for ſuch and ſuch, they have informed me they were all maſſacred.</p>
+            <p>The <hi>Blackwater</hi> in the County of <hi>Tyrone,</hi> a moſt fertile ſoyle, and inhabited with the <hi>Engliſh</hi> had its ſtreames dyed in blood, there being at one time above 200. ſoules murthered upon the Bridge, and flung downe the River. I could inſtance alike in many places, but that we are to allow buryed miſerie too timely a reſurrection.</p>
+            <p>Maſter <hi>Speaker,</hi> in theſe two laſt inſtances, I have onely named the <hi>Engliſh,</hi> not but that I pleaſe my ſelfe better in concluding both <hi>En<g ref="char:EOLhyphen"/>liſh</hi> and <hi>Scotch,</hi> under the title of <hi>Britiſh,</hi> but that there ſeemeth to be ſome reaſon; for in the Infancy of this Rebellion, the Rebells made open Proclamations upon paine of death that no <hi>Scotch man</hi> ſhould be ſtirred in body, goods, or Lands, and that they ſhould to this purpoſe write over the Lyntels of their doores, that they were <hi>Scotch men,</hi> and ſo deſtruction might paſſe over their families; nay, I read a Letter that was ſent by two of the Rebels titulary Collonells, Co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, a quarter of an houre be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:42165:4"/>
+               <hi>Ballyſhannon;</hi> and there ſlew out-right 180. of their men, without loſſe of one man on our ſide, (praiſed be God) which was directed <hi>To our Honorable Friends, the Gentlemen of the never conquered Scotch-Na<g ref="char:EOLhyphen"/>tion,</hi> it expreſt, that they were both of one extraction in former times, joynt-aſſiſtants, that their quarrell, if aright underſtood by them, as by the beſt of <hi>Scotland,</hi> they would be otherwiſe adviſed, then to joyn with us, and many other paſſages that I may ſeaſonably for<g ref="char:EOLhyphen"/>get here; I onely touch this, not as judging where there is ſmoke, there is ſome fire, but to obſerve their policie, which, though to ſome that were ſuddenly ſurpriſed, might afford ſecurity to retreat into ſome place of ſafety, yet it was ridiculouſly entertained, and as reſolutely ſcorned by the Scottiſh Nation.</p>
+            <p>Hitherto (with your patience) is rough drawn the generall eſtate, and condition of the <hi>Britiſh,</hi> who were now betaking themſelves to bet<g ref="char:EOLhyphen"/>ter reſolutions, in oppoſition to the enemies fury.</p>
+            <p>I ſhall begin with the County of <hi>Fermanagh,</hi> where thoſe that had eſcaped the fire and ſword of <hi>Rory Mac Guyre,</hi> the Arch-Rebell in that County, brother to the Lord of <hi>Eniskellen,</hi> drew themſelves into <hi>Eniſ<g ref="char:EOLhyphen"/>kellen,</hi> a place fortified by nature, under the Command of Sir <hi>William Cole,</hi> Colonell. The Inhabitants or that County of the other ſide of the <hi>Loughearne,</hi> reſorted to Maſter <hi>Cathcart,</hi> then High Sheriff of the County, and Garriſon'd in the Caſtle of <hi>Moneigh, Lilgold,</hi> and <hi>Tul<g ref="char:EOLhyphen"/>lagh, Mac Guire</hi> having without any oppoſition in that Country, waſt<g ref="char:EOLhyphen"/>ed, burnt, killed, and pillaged, betook himſelf, with the united forces thereof to beleaguer <hi>Eniskellen,</hi> which divers times with great bodies, and threats equall, but with fictions exceeding them both, <hi>as that Ire<g ref="char:EOLhyphen"/>land was taken,</hi> w<hi rend="sup">ch</hi> for a great while we might all of us eaſily, but with grief, beleeve. Howſoever it pleaſed God, that Col: <hi>Cole,</hi> with great re<g ref="char:EOLhyphen"/>ſolution and valour maintained the ſame, and made divers ſallies in the night, upon his Quarter, doing very good execution, inſomuch that <hi>Mac Guire</hi> thought it an unſeaſonable air to Quarter ſo neer <hi>Eniskellen,</hi> and then began to adventure his fortunes upon the other ſide of the <hi>Lough,</hi> where Maſter <hi>Cathcart,</hi> and many brave <hi>Scottiſh</hi> Cavaliers, againſt ſo great a Body, though not able to maintain a field, by divers reſolute and diſcreet Sallies, chaſed, and ſlaughtered the enemy.</p>
+            <p>One I will particularize, though not crowned with ſucceſſe of exe<g ref="char:EOLhyphen"/>cution, equall to the former, where 800 of the enemies, being drawn up into three Bodies, before their Quarters, they ſallyed out with 60 Horſe, routed their Battalions, and killed 35 of their men, further exe<g ref="char:EOLhyphen"/>cution being prevented by a contiguous wood.</p>
+            <p>There were two Caſtles called <hi>Tullagh,</hi> and <hi>Liſgold,</hi> which by <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:42165:4"/>preſt by perſonall wants, delivered themſelves upon compoſition, which taught ſucceeding Garriſons to ſtick unto their old <hi>Creed,</hi> for after the ſurrender, they were all maſſacred.</p>
+            <p>Maſter <hi>Speaker,</hi> Having no notes of remembrance, and much preſt by my friends unto this diſorderly diſcourſe, or were it not that the reve<g ref="char:EOLhyphen"/>rence of the place countenanced it, I ſhould eſteem it like a tale, begin<g ref="char:EOLhyphen"/>ning <hi>(Once upon a time.)</hi> I ſhall a while leave the County of <hi>Ferma<g ref="char:EOLhyphen"/>nagh,</hi> becauſe theſe are paſſages precedent, to the Commiſſion for rai<g ref="char:EOLhyphen"/>ſing its Regiment of 500 Foot, and recollect my memory, in what po<g ref="char:EOLhyphen"/>ſture the County of <hi>Tyrone</hi> ſtood; moſt part of the <hi>Britiſh,</hi> of the Baro<g ref="char:EOLhyphen"/>ny of <hi>Omagh,</hi> made their eſcape towards <hi>Newtown,</hi> and <hi>Strebane,</hi> both places being of the Barony of <hi>Strebane,</hi> in the ſame County. The Barony of <hi>Clogher</hi> reſorted to the <hi>Agher;</hi> The remaining Barony being the Barony of <hi>Dongarnon,</hi> were marcht up by Sir <hi>Thomas Staples,</hi> and Lieutenant Colonell <hi>Saunderſon,</hi> forth of that Barony to <hi>New-Town,</hi> nigh twenty miles, through the barbarous mountains of <hi>Monterlynny,</hi> one of the greateſt faſtneſſes of <hi>Ireland,</hi> to joyn with Sir <hi>William Stewarts</hi> forces there, where they were joyfully entertained, and after 2 or 3 dayes ſtay there, in a very unſeaſonable time of the yeer marcht to <hi>Agher,</hi> being 600. in number, but contrary to the perſwaſions of that Noble Lieutenant Colonell, and the High Sheriff, Captain <hi>Maxwell,</hi> a Gentleman of ſingular forwardneſſe, were divided by one Maſter <hi>Wil<g ref="char:EOLhyphen"/>liam Stewart,</hi> of <hi>Fiagh,</hi> a man of good parts, but very unfortunately applyed into <hi>Dongannon,</hi> back again, where the greateſt part of them were ſlain by two and three, without ſatisfaction of one drop of Rebels blood, in requitall of theirs, and thoſe Gentlemen that remained with Lieutenant Colonell <hi>Saunderſon,</hi> this unfortunate diviſion happening in the face of Sir <hi>Phelomy O Neill,</hi> encouraged the numerous Rebell ſo farre, that he and his Company was forced to retreate towards the <hi>Omagh,</hi> and ſo to <hi>New-towne,</hi> the Towne of <hi>Agher</hi> being entred by the Rebells, and burnt immediatly: Yet I muſt not here forget the reſolute attempt, and manfull defending of the <hi>Agher</hi> Caſtle by Maſter <hi>Archi<g ref="char:EOLhyphen"/>bald Erskin, Clarke,</hi> Sonne and Heire to Sir <hi>James Erskin</hi> a Gentleman of 1000 pounds <hi>per annum,</hi> of temporall eſtate; who being beleaguerd a few dayes before by 2000. men, with the aſſiſtance of <hi>Archibald Ha<g ref="char:EOLhyphen"/>milton,</hi> Eſquire, and his Tenants Sallyed out with 80 Horſe, and twelve Musqueteers upon a body of the Rebells, being about 600 and routed them with the execution of above 100. of which ſome were conſiderable as any in thoſe parts, with the loſſe only of Captaine <hi>Bark<g ref="char:EOLhyphen"/>ley</hi> a yong Gentleman, much lamented. Maſter <hi>Archibald Hamilton</hi> afterward, a zealous Gentleman, both before and during his continuance in the Kingdome rounded with ſome others of note.</p>
+            <p>
+               <pb n="8" facs="tcp:42165:5"/>
+About two dayes after, ſome twenty horſe with Maſter <hi>Archibald Hamilton,</hi> a bold Souldier, forraged into the County of <hi>Monaghan,</hi> where they encountred with a ſtrong party commanded by the great <hi>Mac Kenna,</hi> which they encountred very fiercely, and at laſt rou<g ref="char:EOLhyphen"/>ted the Rebell, killed one of the ſpeciall Commanders that had been a Commander in <hi>Spaine,</hi> ſlew about 30 horſemen, and 20. foot, and recovered many of the <hi>Britiſh</hi> cattell having received wounds, and diſmounted in the skirmiſh, but recovered both life and horſe.</p>
+            <p>Some three dayes before this, Sir <hi>William Steward</hi> marcht out with ſome foote and horſe from <hi>Newtowne,</hi> purſued the Rebell, and ſo marcht to the <hi>Agher,</hi> and after ſome ſtay, retired home with great ſtore of cattell; though both he and we could have wiſht (if we had the ſpirit of propheſie) to have kept the fields longer: For the <hi>O Neils</hi> and <hi>Mac Gwires</hi> who were then with their forces; the leaders of the Re<g ref="char:EOLhyphen"/>bellion, diſcomfited by former ſervice, ſought for protections, but ani<g ref="char:EOLhyphen"/>mated by Maſter <hi>William Stewarts</hi> diviſion, (and this retiring march though grounded upon warrantable diſcipline) beleaguered the <hi>Agher</hi> Caſtle, Sir <hi>Phelomy O Neill,</hi> and Collonell <hi>Rory, Mac Gwire</hi> being perſonally preſent with 4000 men; and though they ſeconded their attempts by promiſes of honourable quarter, reinforced it by bloody threats in caſe of refuſall: planted a ſmall field peece to batter, and in a darke night ſtorm the gate and bawne upon all parts. Yet by the re<g ref="char:EOLhyphen"/>ſolution of Maſter <hi>Erskin,</hi> and the ready fire of Sir <hi>Henry Titchbourns</hi> old company beate them from their wals and ſcaling ladders with the loſſe of 200 of their reſoluteſt men.</p>
+            <p>Sir <hi>Phelemy O Neill</hi> retired his journey, burning along to <hi>Dongannon, Mac Gwire</hi> in his retreat aſſaulted <hi>Aghatyan</hi> Caſtle, commanded by Captain <hi>Maxwell,</hi> who upon ſight of <hi>Mac Gwires</hi> drawing up, iſ<g ref="char:EOLhyphen"/>ſued out ſome few muſquetteers into the ditches, and beate him off from any further attempt, who in his march burnt all <hi>Fermanagh</hi> to<g ref="char:EOLhyphen"/>wards <hi>Eniskellen.</hi> About that time Captain <hi>Thomas Newburgh</hi> with a few men he raiſed in great hazard of his owne perſon; tooke in Ca<g ref="char:EOLhyphen"/>ſtle <hi>Derrick,</hi> a place of great conſequence and ſtrength, killed the men, poſſeſt their arms: in his abſence being gone for ammunition, left the Caſtle to a yong Gentleman Maſter <hi>Durdo;</hi> when Sir <hi>Phylomy O Neill</hi> immediatly beſieged it with 3000 men, but Maſter <hi>Durdo</hi> with great courage having onely 16 men to man the Caſtle and Bawne, beate him off, and ſlew more than 80 of his men, and 9 dayes after ſallyed out and killed out one prime Gentleman of the <hi>O Neils,</hi> and ten more, and took two Colours and a Drum, with loſſe of three of his own men; all which and himſelf afterwards for want of ammunition were forced to leave the Caſtle in a dark night, and every one ſhift
+<pb n="9" facs="tcp:42165:5"/>for himſelfe, where ſome miſ-led upon the mountains happened upon the enemies quarters inſtead of ours and were killed. Maſter <hi>Durdo</hi> with great hazard lying two nights upon the mountaines eſcaped un<g ref="char:EOLhyphen"/>to us.</p>
+            <p>Sir <hi>William Stewart</hi> underſtanding of a party of the <hi>O Neals</hi> in the <hi>Kirrilrs</hi> woods, ſent out Captaine <hi>Balfour</hi> a deſerving ſouldier, with 100 men, who skirmiſht with them, killed 50 Rebels, loſt four of his owne men, and brought home 400 Cowes.</p>
+            <p>Some foure dayes after Sir <hi>William Stewart</hi> deſired Lievetenant Co<g ref="char:EOLhyphen"/>lonell <hi>Sanderſon,</hi> my ſelf, and Serjeant Major <hi>Iames Galbraith</hi> to march from <hi>Newtowne</hi> to relieve <hi>Ageer</hi> and <hi>Aghatyan,</hi> with 500 foot and 100 horſe, the ſecond night in extremity of weather, wee marcht to the <hi>Agher,</hi> and quartered in <hi>Clogher,</hi> a mile &amp; a halfe diſtant; the enemy fell that night into one part of our quarters, but upon the alarum of the Sentinels, the maine Guard iſſued out, kild ſome, and chaſed the reſt. The next morning we marched out into <hi>Fermanagh,</hi> where in ta<g ref="char:EOLhyphen"/>king 500 Cowes, as many ſheep, and 300 horſes, we killed 70 Rebells: upon our returne we beſieged Colonell <hi>Donnogh, Mac Gwires</hi> Ca<g ref="char:EOLhyphen"/>ſtle, being ſtrongly imbattaild and flanckt, after many ſhot paſt on both ſides, the wind turning upon the forepart of the houſe, wee fired ſome out-houſes, in the ſmoake whereof we approached the gate, ſet it on fire, entred the Caſtle, put the men to the ſword: and indeed I ſhall never expect to ſee more reſolution either in Commanders or ſoul<g ref="char:EOLhyphen"/>diers: but I ſhall never inſiſt upon that in this particular, let their acts ſpeake for themſelves; in which march wee relieved 6000 women and children, which otherwiſe had periſhed.</p>
+            <p>In this ſervice Enſigne <hi>Long</hi> behaved himſelf as if he had been Bul<g ref="char:EOLhyphen"/>let proofe: at hand whilſt we were imployed in this ſervice, the Re<g ref="char:EOLhyphen"/>bels drew downe upon Sir <hi>William Stewarts Newtowne,</hi> and the Caſtle plaid off and kild 50 of their men in the ſtreets, and preſerved the towne, except one houſe or two at the furthermoſt end.</p>
+            <p>
+               <hi>Maſter Speaker</hi> be pleaſed I may put you in remembrance theſe are the particulars that accurred in <hi>Permanagh</hi> and <hi>Tyrone</hi> before wee re<g ref="char:EOLhyphen"/>ceived any Commiſſions. I ſhall now preſent unto you in the ſame method the occurrences of <hi>Donegall</hi> County.</p>
+            <p>Colonell <hi>Newgent</hi> a moſt ſeditious Inſtrument, that married my Lord of <hi>Eniskellens</hi> mother drew about 600 men about <hi>Ballyſhannon</hi> Caſtle, a place of great ſtrength and importance, againſt whom my Colonell Sir <hi>Ralph Gore,</hi> and Captaine <hi>Maxwell</hi> a forward Gentleman drew out ſome 200 men and 60 horſe, who encountred them, routed them, kild upwards of 180 Rebels, tooke Collonels <hi>Newgents</hi> horſe, who left it and his bootes ript off behinde him, beſides many that came downe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which were killed by the foot, and not
+<pb n="10" facs="tcp:42165:6"/>one man <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon our ſide. Divers ſallies were made by Captaine <hi>Iohn Follyot,</hi> a Gentleman deſerving much commendations for his courage and diſcretion, as alſo by his Lievtenant <hi>William Ancktill</hi> Eſquire, a bold Comrade, ſometime killing 20, 30. in which Captaine <hi>Follyot</hi> received a ſore wound in his hand, being at the ſword entred and befit with the Rebels.</p>
+            <p>About a fortnight after their defeat at <hi>Ballyſhaunon,</hi> the Rebels mu<g ref="char:EOLhyphen"/>ſtred new forces, and with aſſiſtance of Collonell <hi>Manus O Donnell,</hi> and Collonell <hi>Turlogh, Mac Caffrye O Donnell,</hi> they beſieged my Co<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>is Caſtle, he being gone over the mountaines for Ammunition, the Rebels fited ſome out-houſes, but were beaten off with loſſe of twenty men, who attempted to burne the gate.</p>
+            <p>In the Barony of <hi>Boylagh</hi> about two dayes after the <hi>Mac Swynes,</hi> and the <hi>O Boyles,</hi> were encountred about <hi>Kilbegge</hi> by Maſter <hi>Andrew Knox,</hi> a Miniſter, who though very unequall in number to the Rebels held them up at puſh a Pike, and killed about 80 of their men, and put the whole body to flight, and brought home a great prey. In which skirmiſh the beſt <hi>Mac Swyne</hi> was killed.</p>
+            <p>Theſe <hi>Master Speaker,</hi> are the Occurrences in thoſe three Coun<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that were precedent unto any Commiſſion granted for raiſing of Regiments and now I ſhall according to the rule I propounded unto my ſelfe, firſt relate the exploits of every Regiment a part, and then of ſuch ſervice as was done joyntly, and as I began with <hi>Formanagh,</hi> in what was performed before any Commiſſion, ſo I ſhall endevour the ſame in theſe ſubſequent Occurrences.</p>
+            <p>
+               <hi>Tullagh</hi> and <hi>Liſgold</hi> Caſtles, being formerly ſurrendred upon promiſe of quarters, which was performed in this manner, they ſtript old and young, and bound them, expoſing them all night to the froſt and ſnow, and next day killed them, <hi>Moneigh</hi> Caſtle joyned with Sir <hi>William Cole,</hi> and marcht out into the fields to <hi>Lowtherſ-townes</hi> where they had in<g ref="char:EOLhyphen"/>telligence, they were drinking upon their march towards <hi>Eniskilling,</hi> and ſurpriſed them unawares, and purſued them ſome foure miles with ſlaughter above 200 men, tooke foure Colours, ſome Drummes, two Captaines, one <hi>Mac Mahou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> another <hi>Mac Guire,</hi> with ſtore of Armes.</p>
+            <p>After this he marcht out with 400 men, and having burnt the corne and the enemies garriſons, was met in his march homewards, by <hi>Mac Guire</hi> with 800 men, with great violence charging his Vanne, and unexpectedly 400 more of the <hi>Mac Mahou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> charged him on the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> put them all to flight, kild up wards of a 100 men, got 60. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and many Pikes, he hath taken all their boats u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on <hi>Long<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nty</hi> ſunke their <hi>Cot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> and both by land and water made <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:42165:6"/>This is what I can certainly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, enough we <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ard many other paſ<g ref="char:EOLhyphen"/>ſages of much credit, but I am certaine that he is not <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cope when any opportunity ſhall require.</p>
+            <p>I ſhall now leave <hi>Fermanagh</hi> in this diſcourſe, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in my prayers, and paſſe to Sir <hi>William <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Regiment, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Roberts Stewarts,</hi> whom though I but now name, hath given <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brave teſtimonies of Commanders every way well qualified. A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es the unfortunate and unworthy loſſe of <hi>Strebane,</hi> theſe Regiments garriſon'd upon ſuch frontier places, as might ſecure the Ba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ony <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Rapho,</hi> in which the ſafety of the Citie of <hi>London-dery</hi> was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concerned, as alſo the Barrony of <hi>Eniſhoen,</hi> in which <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> fighting men of the <hi>Iriſh,</hi> ready then (though wee conceive better of them now) to have fallen upon our backes upon the leaſt invitati<g ref="char:EOLhyphen"/>on of any defeat unto us. Sir <hi>Ralph Gores</hi> Regiment being but 500. <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t, march'd into the Barronies of <hi>Boylagh,</hi> and <hi>Bannagh,</hi> and <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir<g ref="char:EOLhyphen"/>h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gh,</hi> being Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ronies that had beene wholly waſted by the Rebels, where for 13. weekes we had no ſuſtenance, but what we pul<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> out of the Rebels mouthes. Theſe two Regiments were for the moſt part mingled in ſervice, and having ſo great a ſcope as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. long <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illes to guard in the long winter nights, and every way paſſabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the enemies entrance, and the charge of ſo many ſoules there reſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ding, and following their vocations as in the time of peace; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the con<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of thouſand of pl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dred Pamilles, I beleeve in a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſtruction it will deſerve the tide of miraculous ſervice for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nights but the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> attempted in ſeverall places with light-houſe to burne the Countrey, which they never in the leaſt way prevailed in, but many times returned with a weaker maſter then they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forth. Yet Maſter <hi>Speaker,</hi> they ſpared no labour or induſtry, Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Stewart</hi> march'd to <hi>New-towne</hi> and relieved it, but the Enemy ſaved all their heads by their heeles, but ſix men; afterwards march'd up to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>e-d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rge,</hi> burnt all the Enemies Countrey, and killed div<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, brought <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>00. Cowes, then march'd up over againſt <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> bu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that Countrey, and kil'd divers; afterwards fell over in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght upon the Rebels Quarters above <hi>Strebane,</hi> and kil'd about <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>outhen. Sir <hi>William Stewart</hi> in the meane time was as buſie in the Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> fiting and burning.</p>
+            <p>Captaine <hi>Maxwell,</hi> and Captaine <hi>George Stewart</hi> marcht towards <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> with 150 men, and killed 90 of the Rebels, and brought home 1800 Cowes. Captaine <hi>Baſill</hi> about the ſame time, being New-yeares day, marcht over into the enemies Countrey with 60 men and en<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tred 400 men, and killed 36.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:42165:7"/>preſerving of their owne quarters, and ſcowring the neighbouring quarters of the enemies, that our Regiment on the other ſide of the mountaines at that preſent, having no intelligence of their continu<g ref="char:EOLhyphen"/>all defeats, having marched ſeaven dayes and nights upon mountaines, where never horſemen rode in a deep ſnow, 13. miles the leaſt dayes march, where and when the beſt Commanders never taſted bread, beare, wine, ſalt, or Aqua-vitae, and at every night fought with the Rebels for his bed-cloathes (God bee praiſed with ſtrange ſucceſſe) and being in the ſight of the enemie, and for the moſt part upon the Ice (notwithſtanding the weather) ſtript in our ſhirts; upon our marching homewards met ſuch a packe of them drawne out by the other two Regiments, that they beſet us in our quarter at night, which we expecting, appointed a neare Fort for our Alarum place for two Companies to draw unto, and the other two Companies into a wood, where if by Gods mercy we ſhould have the better of them, we were aſſured they ſhould paſſe, all happened accordingly; for our Sentinels giving a timely Alarum, the two Companies tooke the Fort, beat them off untill they fled the right way, where the two Companies unexpectedly met them with ſharpe fire, and the other two ſallyed out of the Fort upon their Reares, and did very terrible execution: Immediately after which wee marched away in the night, and ſurpriſed many in the neighbouring houſes; and laſtly, burnt the quarters, and all the corne in the whole march, which was out of command. And truely Sir <hi>Ralph Gore</hi> his zeale was very ear<g ref="char:EOLhyphen"/>neſt, for the moſt tempeſtuous nights hee would alwayes chuſe to fall upon their quarters, which at laſt were upon every hand of our Garriſon; for he having placed for the ſafety of thoſe parts one Com<g ref="char:EOLhyphen"/>pany at <hi>Kilbegge,</hi> another at <hi>Caſtle-Rabin,</hi> and one being left to main<g ref="char:EOLhyphen"/>taine our owne quarters, we had but two Companies for the Field; yet at divers times we would march out to them, being at the leaſt 13. Colours; and overnight having taken the ditches with Musketeeres, drew them in with counterfeit retreats, untill wee had diſcharged at 40. yards diſtance; ſometimes a 100. Musketeers, ſometimes more, every Musket charged with 10. Piſtoll Bullets.</p>
+            <p>But M. <hi>Speaker,</hi> our good ſucceſſe ended with our Ammunition, for all being ſpent to one Roll of Match, and ſending a Letter for ſome ſupply; the Traytor run to the Rebels, delivered my Letter, and what I had but modeſtly put into the Text concerning our wants, he being a ſouldier in the Regiment made a large Comment upon, which heartened the Rebels ſo much, that we were like to periſh for want of food, and certainly had, if Sir <hi>Robert Stewart</hi> with his Re<g ref="char:EOLhyphen"/>giment, and three of Sir <hi>William Stewarts</hi> Companies had not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:42165:7"/>by ſome looſe, Files of the Enemies ſhot, which he beat off, and ſo without much danger ſecured the march of the entire Body.</p>
+            <p>But now Maſter Speaker, the Country being waſted by the Enemy, and our ſelves, the dayes beginning to grow longer, we thought beſt to joyn all three Regiments, leaving <hi>Ballyſhannon,</hi> Caſtle of <hi>Donegall,</hi> and Caſtle <hi>Rahin</hi> well manned, and as well as we could provided o<g ref="char:EOLhyphen"/>therwiſe, and ſo betook our ſelves with what ſtrength we could ſpare unto the Fields. And now Maſter Speaker, if I can borrow your pa<g ref="char:EOLhyphen"/>tience, I preſume I ſhall acquaint you with very good ſervice. In our march over the mountaines of <hi>Barneſmore</hi> homewards to the Barony of <hi>Raphe,</hi> this <hi>Barneſmore</hi> being known to every inhabitant in <hi>Ireland</hi> to be as dangerous a place as art and nature could deviſe. When the Van-guard of our Army entrod the Wood, we ſent threeſcore looſe ſhot upon each of our Flankes, halfe Calliver ſhot from our Body through the Woods, where they skirmiſhed with the Enemy, having taken the Wood overnight, in very hot ſervice upon both ſides. The Rebels had placed thirteen Colours in a hollow, halfe a mile above us, who when they heard our ſhot ſhewed themſelves, thinking as they confeſt to draw us out, whileſt thirteen Colours more lay hidden in another hollow, that ſhould ſuddenly fall in upon the remaining party, and had likewiſe placed nine Colours below to fall in upon the bag<g ref="char:EOLhyphen"/>gage, which was at leaſt three thouſand ſoules, which travelled below almoſt a mile off, in a narrow paſſe. We drew out (ſuſpecting the worſt) onely ſome commanded Musketiers skirmiſhed and beat away their firſt Body appeared, when immediately the other nine Colours fell in upon the baggage, to which we aſſigned eight and fourty Muſ<g ref="char:EOLhyphen"/>ketiers, who held them up couragiouſly in a ſtrait paſſe. We that were with the main Body perceiving it, having a Wood and Boggeunderus, drew with more haſte than order (as requiſite it was) to their relief, ſo that we likewiſe put them to ſlight. In the mean time the thirteen Colours in ambuſh all this while fell into our Rear, and all their Forces in the twinkling of an eye fell round upon us, which we with coun<g ref="char:EOLhyphen"/>termanded Musketiers oppoſed, and during the ſpace of ſeven houres and a halfe (by a watch) fought and killed four hundred of their men, beſides what fell in our march of ſix miles, where having conveighed our baggage between two Diviſions, were ſtill charged in our Rear, and the extremities of Hankes that had thicke ſhot returned by two hundred Musketiers of ours, ſo that as by a priſoner of theirs taken the next day that was preſent at the battell, ſeven hundred was confeſt to be ſlain, in which we loſt but nine men, and ſome hurt. That night we marched into our Quarters in the Barony of <hi>Rapho.</hi> This occurrence happened about eight weekes ſince.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of ſeverall parties both of
+<pb n="14" facs="tcp:42165:8"/>Horſe and Foot into the Enemies Countrey returning home both with the prey and the ſlaughter of the Enemy, I ſhall onely trouble you with what occurences ſince the ſeventeenth of May, untill the ſeven and twentieth, when I left <hi>London-dorry.</hi>
+            </p>
+            <p>Sir <hi>Philim O Neal</hi> drew down to <hi>Strebane</hi> about five thouſand men beſides Horſe, intending to burne <hi>Rapho,</hi> and to raiſe <hi>Eniſhoen,</hi> and we being as he abſolutely conceived defeated, to draw the other Forces on the contrary ſide of <hi>Logſoyle,</hi> and to aſſault the <hi>Derry.</hi> Our Regi<g ref="char:EOLhyphen"/>ments aſſiſted with two ſtrong Companies of Captain <hi>Pitts</hi> and Captain <hi>Lawſons</hi> of the City of <hi>London-derry</hi> drew over before day into the Rebels Countrey, where preſently the battels were ordered upon both ſides, and ſo ſtood about a quarter of a miles diſtance, we drew out to them one Battalion, and a 100 Musketiers to try how they would anſwer them. The Rebels left their ground, and drew out to a Wood, which they filled with their Musketiers, we likewiſe by the earneſt intreaty of our Souldiers, were contented to loſe the ad<g ref="char:EOLhyphen"/>vantage of our preſent embattelling, and marched over to them beat their Musketiers out of the Wood, and to omit circumſtances, killed a<g ref="char:EOLhyphen"/>bout five hundred of their men, and put them to their flight in which day there was great circumſpection and diſcipline uſed by the Com<g ref="char:EOLhyphen"/>manders, and as much obedience and reſolution by the Souldiers, Maſter <hi>Cathcart</hi> Cornet to Sir <hi>Robers Stewarts</hi> Troop, and Lieutenant <hi>Colaſe</hi> one of his Lieutenants, and Lieutenant <hi>Galbraith</hi> one of our Regiment about ſeventeen yeares of age, doing very ſtrange ſervice with their commanded Musketiers.</p>
+            <p>In purſuance (by Gods mercy) of this victory, though we re<g ref="char:EOLhyphen"/>turned weary unto our Quarters, yet by break of day the Regiments were upon march, an unuſuall way to <hi>Strebane,</hi> thinking to have be<g ref="char:EOLhyphen"/>ſet him and his Forces which quartered there viſibly. To this purpoſe Horſe and Foot entred the Town upon all Quarters; but Sir <hi>Phelomy</hi> was newly departed with his Forces, onely the Caſtle he committed to Captain <hi>Hugh Murragh O Devyn</hi> a bloudy fellow, and an hundred of his choice Musketiers, and a hundred Pikes to guard much of his own baggage, and my Lady <hi>Strebanes</hi> goods; but we eaſily forced the Caſtle, put the men to the ſword, onely Captain <hi>O Devyns</hi> life reſpited, who is now in the <hi>Derry</hi> Gaol. The Caſtle we left a Gar<g ref="char:EOLhyphen"/>riſon in, commanded by Captain <hi>Wiſher</hi> a diſcreet Gentleman under the command of Sir <hi>William Hammilton,</hi> who though formerly a ſtrong rooted Papiſt (if any root can be in that titular Religion) hath re<g ref="char:EOLhyphen"/>nounced the ſame, and conforming himſelfe unto the Proteſtant Church, judging upon this reaſon (as I have heard from himſelfe) that neither faith, civill converſation, ſecure comma<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>trayterous
+<pb n="15" facs="tcp:42165:8"/>and inhumane deſignes are, or muſt be the propagators of it.</p>
+            <p>From <hi>Strebane</hi> we having left 500 men to guard the Bar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ony of <hi>Ra<g ref="char:EOLhyphen"/>pho,</hi> we marched up on the <hi>ô Canes</hi> Country on the other ſide of <hi>Logh<g ref="char:EOLhyphen"/>foyle,</hi> and comming over againſt <hi>Derry,</hi> quartered in the fields that night, foure Companies of the <hi>Derry</hi> joyning with us to relieve <hi>Lym<g ref="char:EOLhyphen"/>mavaddy</hi> Caſtle, and <hi>Bally</hi> Caſtle, which had beene ten weeks before ſtrongly beleager'd by great forces, and yet had ſallyed forth and killed many hundred of the enemies, being commanded by a reſolute young Gentleman Captaine <hi>Thomas Phillips;</hi> his elder brother M. <hi>Dudly Phi<g ref="char:EOLhyphen"/>lips</hi> in the meane time being gone about with 3. Botes for to carry their proviſion from <hi>Derry.</hi> That night wee were welcome gueſts to the two Caſtles, who diſpaired of all ſuccour; and having conducted their proviſion in, the next morning aſſiſted with very reſolute Horſe out of the two Caſtles, wee advanced our march into the Enemies Countrey, where at <hi>Magiligan</hi> we encountred the Enemie, the <hi>ô Canes,</hi> the <hi>Magilligans,</hi> the <hi>ô Hagans,</hi> and the <hi>ô Neales,</hi> being joy<g ref="char:EOLhyphen"/>ned together for our utter ruine, (God be praiſed) we killed upwards of 500 of them, and ſcattered the reſt.</p>
+            <p>Though we were now too farre in diſcretion engaged from our owne Quarters, yet having received late Letters from <hi>Colrane</hi> of their miſerable wants and narrow beleagure, we continued our march up towards the mountaines to finde ſome prey, that wee might be the welcomer to almoſt famiſh'd <hi>Colrane;</hi> wee met with 3000 Cowes, but with thrice as many men, the Rebell having ſtrengthened him<g ref="char:EOLhyphen"/>ſelfe from the Army that bel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agured <hi>Colrane</hi> and other parts: Our Commanders cheriſhed the Souldier, and the Souldier the Com<g ref="char:EOLhyphen"/>mander; but the Rebels having that morning (moved by the vali<g ref="char:EOLhyphen"/>ant preaching of a Fryer) bound themſelves by Oath of their Sa<g ref="char:EOLhyphen"/>crament received thereupon, to fight this Battell to the laſt man, and to hunt us out of their Countrey, gave us a warme charge, and forced our Horſe, and commanded Musketiers to retreat upon the wings of our Battalions, yet after our ſhon, yet earneſt Pray<g ref="char:EOLhyphen"/>ers, wee advanced towards them; and ſlanghtered above 800. of them; which being an unuſuall ſight to them, they forgat the Fryers Doctrine, and their owne application and fled; our Horſe and Foot chaſing them a hundred wayes with great ſlaughter: From thence with our prey and abundance of Horſe, &amp;c. wee marched to <hi>Dungevin</hi> Caſtle, one of the Kings Houſes, which was kept by Colonell <hi>Manus mac qui ballagh, Mac Richard ô Cane,</hi> who (though in this battell) had fied thither to his charge, upon parley hee delivered up the Caſtle, and deſired the Kings <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was aftorded; the Armes and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:42165:9"/>every Regiment beſtowed ſome upon the Town, the Souldiers at eaſie rates ſold the reſt, but ſuch as were delivered to the right owners.</p>
+            <p>At Caſtle <hi>Roe</hi> a mile from <hi>Colrane</hi> were lodged ſeven Colours of the Enemies to ſecure the band fiſhing to themſelves: we took the Co<g ref="char:EOLhyphen"/>lours, put many to the ſword, and the Town of <hi>Colrane</hi> hath a Garriſon there now, and enjoyes the fiſhing to themſelves, being the greateſt Salmon fiſhing in Chriſtendom.</p>
+            <p>From thence we made our ſpeedy march home, where our Horſe killed about an hundred ſtraglers, and found our own quarters invaded with above two thouſand men, which our remaining party had with good reſolution and ſucceſſe kept off, upon advertiſement of our re<g ref="char:EOLhyphen"/>turne, they deputed no longer ſtay.</p>
+            <p>In all theſe particulars (all honour to God Almighty who fought our battels) amongſt the three Regiments we loſt not an hundred men ſince the firſt Rebellion to the laſt hour.</p>
+            <p>We have at the preſent theſe Garriſons, Caſtle of <hi>Strebane, Lifford, Rapho, Drombo</hi> Caſtle, <hi>Litterkenny, Ramalton, Lymavaddy, Bally</hi> Caſtle, <hi>Ballyſhannor, Donagall,</hi> Caſtle <hi>Rahin,</hi> being places of great conſequence by ſcituation and ſtrength.</p>
+            <p>Maſter Speaker, this is a brief relation of ſo many paſſages in ſuch a tract of time; an Epitome of that which was a large volume in our own ſufferings and the conſtruction of our Enemies, which in duty I ſuppoſe I was bound to preſent to this Honourable Aſſembly, in the port and haven of whoſe unparallel'd labours we anchor our ſafety. You may be pleaſed (Maſter Speaker) to remember our ſudden ſur<g ref="char:EOLhyphen"/>priſall, our wants of all manner of ſupplies for preſervation of our lives, much more for the defence of a Country, and ſuch places of im<g ref="char:EOLhyphen"/>portance; you may conſider the reſolution of men encouraged by excerciſe of their Armes fleſhed in the blond of their Enemies, im<g ref="char:EOLhyphen"/>boldened by knowledge of the Country, provoked by the loſſe of their deareſt pledges, wives children, and all; the hazard in tranſporting men ſaved, the charges in raiſing, levying, ſhipping, demurrage upon winde, and the like prevented; the great expences of the Com<g ref="char:EOLhyphen"/>manders amounting to above three thouſand pounds for armes victu<g ref="char:EOLhyphen"/>als, cloaches, &amp;c their offenſive ſervice without loſſe of an hundred men, their defenſive vigilancy of ſo much ground, the ſeverall Garri<g ref="char:EOLhyphen"/>ſons of conſequence maintained, the weak inſtruments by which the ſervice was effected, and the great mercy of God by which we were protected; then we doubt not, but the juſtice of this Houſe will con<g ref="char:EOLhyphen"/>tinue us in our Reſolutions, encourage others to attempt better; all which we ſhall in our humble Petition more ſeaſonably preſent.</p>
+            <pb facs="tcp:42165:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
